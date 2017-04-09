@@ -61,6 +61,7 @@ var EmployeeView = function(employee) {
 
 		return false;
 	};
+
 	this.initialize();
 
 }
